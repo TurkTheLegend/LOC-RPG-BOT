@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "userId": "123456789",
+            "username": "CoolPlayer123",
+            "discordTag": "CoolPlayer123#1234",
+            "points": 250,
+            "lastUpdated": "2024-12-12T15:30:45Z"
+        },
+        {
+            "userId": "987654321", 
+            "username": "RewardHunter",
+            "discordTag": "RewardHunter#5678",
+            "points": 100,
+            "lastUpdated": "2024-12-12T14:22:33Z"
+        }
+    ],
+    "metadata": {
+        "totalUsers": 2,
+        "lastModified": "2024-12-12T15:30:45Z"
+    }
+}
